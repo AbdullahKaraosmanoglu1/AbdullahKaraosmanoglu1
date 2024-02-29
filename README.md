@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning .Net Backend Developer and exploring other programming languages.
 
-📫 How to reach me: [abkaraosmanoglu@gmail.com]
+📫 How to reach me: abkaraosmanoglu@gmail.com
 
 ⚡ Fun Fact: Code and Music 🎵 are the reasons to live.
 
