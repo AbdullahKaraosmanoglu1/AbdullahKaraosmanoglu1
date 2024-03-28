@@ -1,5 +1,5 @@
  # Hi, I'm Abdullah Karaosmanoğlu! 👋
- For reasons I don't know, my main account, which I shared as a screenshot below, has been marked as hidden to third parties by GitHub. Even though I contacted the GitHub Support Team on February 26, 2024, my account has still not been fixed and I have not received a response. For these reasons, I have created this account now, it is a backup account, I created it temporarily. I will continue from here until my main account that I shared is activated again.
+ For reasons I don't know, my main account, which I shared as a screenshot below, has been marked as flagged to third parties by GitHub. Even though I contacted the GitHub Support Team on February 26, 2024, my account has still not been fixed and I have not received a response. For these reasons, I have created this account now, it is a backup account, I created it temporarily. I will continue from here until my main account that I shared is activated again.
  
 ![apogithub](https://github.com/AbdullahKaraosmanoglu1/AbdullahKaraosmanoglu1/assets/161723867/57ce2951-a06b-4c5f-9b4a-505a21e5d6c0)
 
