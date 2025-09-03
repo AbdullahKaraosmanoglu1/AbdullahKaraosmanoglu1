@@ -5,10 +5,29 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Currently focused on **.NET Core (Web API, MVC), PostgreSQL, and NestJS** projects.  
-- 📚 Exploring **CQRS, DDD (Domain-Driven Design), MediatR, Unit/Integration Testing** patterns.  
-- 🌱 Always learning and building side-projects to improve problem-solving and clean code practices.  
-- ⚡ Fun fact: **Code & Music 🎵** are my favorite duo for productivity.  
+
+### 🎯 Core Development
+- Developing **.NET Core (Web API, MVC)** and **NestJS** applications  
+- Implementing **SFTP integration** for automated data exchange  
+- Building modular systems with **Feature-Based** and **N-Layered Architecture**  
+- Applying **CQRS + MediatR** for scalability and maintainability  
+- Following **Domain-Driven Design (DDD)** principles in complex domains  
+
+### 🛠️ Database & Infrastructure
+- Managing relational databases: **PostgreSQL** & **MS SQL Server**  
+- Designing and maintaining **database schemas, indexes, and performance tuning**  
+- Setting up and configuring **Dockerized PostgreSQL instances** for local and production use  
+- Implementing **backup, restore, and data migration** strategies  
+- Working with **CI/CD pipelines** for database versioning and deployment  
+
+### ⚙️ DevOps & Server Management
+- Containerization with **Docker** and environment isolation  
+- Automating builds and deployments with **GitHub Actions / pipelines**  
+- Managing **environment variables, secrets, and connection settings**  
+- Monitoring and tuning **server-side database configurations** for reliability  
+
+### ⚡ Fun Fact
+- **Code & Music 🎵** keep me motivated every day
 
 ---
 
