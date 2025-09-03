@@ -1,17 +1,62 @@
- # Hi, I'm Abdullah Karaosmanoğlu! 👋
- .Net Software Developer 🌟
+# Hi, I'm Abdullah Karaosmanoğlu! 👋
 
-🌱 I’m currently learning .Net Backend Developer and exploring other programming languages.
+💻 **Full Stack Software Developer | .NET & JavaScript Ecosystem**  
+📍 Based in Başiskele, Kocaeli – Turkey  
 
-📫 How to reach me: abkaraosmanoglu@gmail.com
+---
 
-⚡ Fun Fact: Code and Music 🎵 are the reasons to live.
+## 🚀 About Me
+- 🎯 Currently focused on **.NET Core (Web API, MVC), PostgreSQL, and NestJS** projects.  
+- 📚 Exploring **CQRS, DDD (Domain-Driven Design), MediatR, Unit/Integration Testing** patterns.  
+- 🌱 Always learning and building side-projects to improve problem-solving and clean code practices.  
+- ⚡ Fun fact: **Code & Music 🎵** are my favorite duo for productivity.  
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/abkaraosmanoglu/)
-- [GitHub](https://github.com/AbdullahKaraosmanoglu)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🔧 Languages & Technologies
 
-Feel free to connect with me! Let's code and enjoy the journey together. 😊
+### 💻 Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+</p>
+
+### ⚙️ Tools & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📜 Certifications
+- 🎓 **İleri Düzey ASP.NET Core MVC** – BTK Akademi (2024)  
+- 🎓 **İleri Düzey ASP.NET Core Web API** – BTK Akademi (2024)  
+- 🎓 **Yazılım Uzmanlığı (MCSD)** – Infotech Academy (2023)  
+- 🎓 **Yazılım Uzmanlığı - Bilişim Teknolojileri Kişisel Gelişim** – Esenyurt Üniversitesi (2023)  
+- 🎓 **React JS and Front-End Web Applications** – Infotech Academy (2023)  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/abkaraosmanoglu/)  
+- [GitHub](https://github.com/AbdullahKaraosmanoglu1)  
+- 📧 **abkaraosmanoglu@gmail.com**  
+
+---
+
+⭐️ *Feel free to connect with me! Let's build, learn, and grow together.* 🚀
