@@ -95,15 +95,6 @@
 
 ---
 
-## 📜 Certifications
-- 🎓 **İleri Düzey ASP.NET Core MVC** – BTK Akademi (2024)  
-- 🎓 **İleri Düzey ASP.NET Core Web API** – BTK Akademi (2024)  
-- 🎓 **Yazılım Uzmanlığı (MCSD)** – Infotech Academy (2023)  
-- 🎓 **Yazılım Uzmanlığı - Bilişim Teknolojileri Kişisel Gelişim** – Esenyurt Üniversitesi (2023)  
-- 🎓 **React JS and Front-End Web Applications** – Infotech Academy (2023)  
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abkaraosmanoglu/)  
 - [GitHub](https://github.com/AbdullahKaraosmanoglu1)  
